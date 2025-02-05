@@ -1,2 +1,2 @@
-# OracleCloudPlatform-Instance-extraction
-Bash script for OCI to extract the list of the running instance and send it via email
+🚀 # Oracle Cloud Platform - Bash Scripts
+A simple list of bash scripts for OCI 
