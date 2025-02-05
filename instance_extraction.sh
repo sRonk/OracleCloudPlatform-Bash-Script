@@ -3,7 +3,7 @@
 # Reset txt file
 echo "" > /root/script/extractionOCI.txt
 
-# Configura l'ID dei compartimenti
+# Configure the compartment ID
 compartment_coll="#INSERT HERE YOUR COMPARTMENT ID#"
 compartment_prod="#INSERT HERE YOUR COMPARTMENT ID#"
 
